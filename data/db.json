@@ -1,0 +1,1117 @@
+{
+  "settings": {
+    "agency_name": "RAYEN MASMOUDI DIGITAL",
+    "tagline": "مش خدمات فقط... نتائج تُقاس.",
+    "sub_tagline": "Digital Marketing & Video Ads",
+    "hero_description": "نساعدك على تطوير مشروعك، جذب الحرفاء، وزيادة مبيعاتك عبر الحلول الرقمية الحديثة.",
+    "phone": "+216 44 203 500",
+    "whatsapp": "+21644203500",
+    "email": "rayen.masmoudi.digital@gmail.com",
+    "address": "Sfax, Tunisie",
+    "facebook_url": "https://facebook.com/RayenMasmoudiDigital",
+    "instagram_url": "https://instagram.com/rayen_masmoudi_digital",
+    "website_url": "https://digital.com",
+    "currency": "DT",
+    "announcement_active": true,
+    "announcement_text": "🔥 عرض خاص صفاقس : تخفيض 20% على باقات الإعلانات الممولة ومونتاج الفيديو !",
+    "default_latitude": 34.7406,
+    "default_longitude": 10.7603,
+    "payment_terms": "Paiement convenu avant le début du projet — 🚫 Aucun crédit accordé (Strictement aucun crédit).",
+    "payment_terms_ar": "💵 الدفع حسب الاتفاق وقبل بداية المشروع — 🚫 ممنوع الكريدي."
+  },
+  "admin_auth": {
+    "password_hash": "c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec",
+    "salt": "rmd_salt_2026",
+    "last_changed": "2026-11-09T10:00:00.000Z",
+    "session_version": 1
+  },
+  "working_hours": {
+    "timezone": "Africa/Tunis",
+    "schedule_note": "Ouvert du Lundi au Samedi pour vous accueillir et booster vos campagnes.",
+    "schedule_note_ar": "مفتوح من الاثنين إلى السبت لاستقبالكم وإطلاق حملاتكم التسويقية.",
+    "emergency_support_247": true,
+    "ramadan_hours": "09:00 - 15:30",
+    "days": [
+      {
+        "day": "Lundi",
+        "day_ar": "الإثنين",
+        "is_open": true,
+        "open_time": "08:30",
+        "close_time": "18:30"
+      },
+      {
+        "day": "Mardi",
+        "day_ar": "الثلاثاء",
+        "is_open": true,
+        "open_time": "08:30",
+        "close_time": "18:30"
+      },
+      {
+        "day": "Mercredi",
+        "day_ar": "الأربعاء",
+        "is_open": true,
+        "open_time": "08:30",
+        "close_time": "18:30"
+      },
+      {
+        "day": "Jeudi",
+        "day_ar": "الخميس",
+        "is_open": true,
+        "open_time": "08:30",
+        "close_time": "18:30"
+      },
+      {
+        "day": "Vendredi",
+        "day_ar": "الجمعة",
+        "is_open": true,
+        "open_time": "08:30",
+        "close_time": "18:30"
+      },
+      {
+        "day": "Samedi",
+        "day_ar": "السبت",
+        "is_open": true,
+        "open_time": "09:00",
+        "close_time": "14:00"
+      },
+      {
+        "day": "Dimanche",
+        "day_ar": "الأحد",
+        "is_open": false,
+        "open_time": "Fermé",
+        "close_time": "Fermé"
+      }
+    ]
+  },
+  "content_blocks": [
+    {
+      "id": "block_hero_title",
+      "section_key": "hero",
+      "title": "Titre Principal Hero",
+      "title_ar": "العنوان الرئيسي للموقع",
+      "content": "مش خدمات فقط... نتائج تُقاس.",
+      "content_ar": "مش خدمات فقط... نتائج تُقاس.",
+      "badge": "Digital Marketing & Video Ads",
+      "order_index": 1,
+      "is_visible": true
+    },
+    {
+      "id": "block_hero_desc",
+      "section_key": "hero",
+      "title": "Description Hero",
+      "title_ar": "الوصف التعريفي للوكالة",
+      "content": "نساعدك على تطوير مشروعك، جذب الحرفاء، وزيادة مبيعاتك عبر الحلول الرقمية الحديثة.",
+      "content_ar": "نساعدك على تطوير مشروعك، جذب الحرفاء، وزيادة مبيعاتك عبر الحلول الرقمية الحديثة.",
+      "order_index": 2,
+      "is_visible": true
+    },
+    {
+      "id": "block_why_us",
+      "section_key": "about",
+      "title": "Pourquoi Choisir Rayen Masmoudi Digital",
+      "title_ar": "لماذا تختار وكالتنا ؟",
+      "content": "خبرة تونسية موثوقة في صفاقس وكامل تراب الجمهورية مع تتبع دقيق للمبيعات ومردودية عالية للإعلانات الممولة.",
+      "content_ar": "خبرة تونسية موثوقة في صفاقس وكامل تراب الجمهورية مع تتبع دقيق للمبيعات ومردودية عالية للإعلانات الممولة.",
+      "order_index": 3,
+      "is_visible": true
+    }
+  ],
+  "ads": [
+    {
+      "id": 1794264994730,
+      "title": "Updated Ad CRUD Title",
+      "title_ar": "إعلان تجريبي",
+      "slug": "test-ad-crud",
+      "advertiser_name": "Test Client",
+      "advertiser_phone": "+216 20000000",
+      "advertiser_email": "",
+      "description": "",
+      "description_ar": "",
+      "price_dt": 150,
+      "category": "marketing",
+      "images": [
+        "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "status": "accepted",
+      "is_published": true,
+      "is_paused": false,
+      "start_date": "2026-11-09",
+      "end_date": "2026-12-09",
+      "scheduled_publish_time": "",
+      "custom_elements": [
+        {
+          "id": "el_1",
+          "type": "badge",
+          "label": "Remise",
+          "value": "-20%"
+        }
+      ],
+      "latitude": 34.7406,
+      "longitude": 10.7603,
+      "map_address": "Sfax, Tunisie",
+      "map_enabled": false,
+      "views_count": 0,
+      "clicks_count": 0,
+      "created_at": "2026-11-09T22:56:34.730Z",
+      "updated_at": "2026-11-09T22:56:38.912Z"
+    },
+    {
+      "id": 1,
+      "title": "Campagne Ramadan Promo - Pâtisserie Orientale",
+      "title_ar": "حملة ترويجية للمرطبات الشرقية - صفاقس",
+      "slug": "campagne-ramadan-patisserie",
+      "advertiser_name": "Patisserie Ben Salem",
+      "advertiser_phone": "+216 98 123 456",
+      "advertiser_email": "ahmed.bensalem@gmail.com",
+      "description": "Campagne publicitaire vidéo sur Facebook et Instagram avec offre de livraison gratuite à Sfax.",
+      "description_ar": "فيديو ترويجي احترافي ممول مع كود خصم وتوصيل مجاني لكامل ولاية صفاقس.",
+      "price_dt": 120,
+      "old_price_dt": 160,
+      "category": "video",
+      "images": [
+        "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80"
+      ],
+      "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "status": "accepted",
+      "is_published": true,
+      "is_paused": false,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-30",
+      "scheduled_publish_time": "2026-11-01T10:00",
+      "custom_elements": [
+        {
+          "id": "el_1",
+          "type": "badge",
+          "label": "Offre Spéciale",
+          "value": "-25% de remise"
+        },
+        {
+          "id": "el_2",
+          "type": "highlight",
+          "label": "Livraison",
+          "value": "Sfax Centre & Téniour"
+        }
+      ],
+      "latitude": 34.7406,
+      "longitude": 10.7603,
+      "map_address": "Route de Téniour Km 2.5, Sfax",
+      "map_enabled": false,
+      "views_count": 1420,
+      "clicks_count": 89,
+      "created_at": "2026-11-01T09:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Lancement Collection Hiver - Prêt-à-porter",
+      "title_ar": "إطلاق تشكيلة الشتاء الفاخرة",
+      "slug": "lancement-collection-hiver",
+      "advertiser_name": "Boutique Bella Moda",
+      "advertiser_phone": "+216 24 555 888",
+      "advertiser_email": "sonia.louati@outlook.com",
+      "description": "Spot vidéo TikTok et Reels pour promouvoir la nouvelle collection de manteaux et pulls.",
+      "description_ar": "فيديو قصير تفاعلي للريلز والتيك توك لتسليط الضوء على تصاميم الملابس الشتوية.",
+      "price_dt": 90,
+      "category": "sponsoring",
+      "images": [
+        "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80"
+      ],
+      "status": "accepted",
+      "is_published": true,
+      "is_paused": false,
+      "start_date": "2026-11-05",
+      "end_date": "2026-11-25",
+      "custom_elements": [
+        {
+          "id": "el_3",
+          "type": "badge",
+          "label": "Cible",
+          "value": "Femmes 18-45 ans"
+        }
+      ],
+      "latitude": 34.7325,
+      "longitude": 10.7554,
+      "map_address": "Avenue Habib Bourguiba, Sfax",
+      "map_enabled": false,
+      "views_count": 890,
+      "clicks_count": 52,
+      "created_at": "2026-11-05T11:20:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Nouvelle Offre Déjeuner Buffet - Restaurant Médina",
+      "title_ar": "عرض الغداء المفتوح - مطعم المدينة",
+      "slug": "offre-dejeuner-buffet-medina",
+      "advertiser_name": "Mohamed Fakhfakh",
+      "advertiser_phone": "+216 97 456 123",
+      "advertiser_email": "fakhfakh.m@gmail.com",
+      "description": "Annonce sponsorisée pour attirer les familles le week-end avec formule buffet à volonté.",
+      "description_ar": "إعلان ممول لاستهداف العائلات في عطلة نهاية الأسبوع لتذوق أشهى المأكولات التونسية.",
+      "price_dt": 75,
+      "category": "marketing",
+      "images": [
+        "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+      ],
+      "status": "accepted",
+      "is_published": true,
+      "is_paused": false,
+      "start_date": "2026-11-10",
+      "end_date": "2026-12-10",
+      "latitude": 34.735,
+      "longitude": 10.762,
+      "map_address": "Bab Diwan, Médina de Sfax",
+      "map_enabled": false,
+      "created_at": "2026-11-09T08:15:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Promotion Cryptomonnaie & Trading",
+      "title_ar": "إعلان تداول واستثمار عشوائي",
+      "slug": "promo-crypto-trading",
+      "advertiser_name": "Inconnu Web",
+      "advertiser_phone": "+216 20 000 000",
+      "description": "Gagnez 500% par jour sans effort...",
+      "description_ar": "اربح أرباح خيالية بدون جهد...",
+      "price_dt": 200,
+      "category": "ads",
+      "images": [
+        "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=800&q=80"
+      ],
+      "status": "rejected",
+      "rejection_reason": "Non conforme à la politique publicitaire de l'agence (interdiction des promesses financières trompeuses).",
+      "is_published": false,
+      "is_paused": true,
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-15",
+      "created_at": "2026-11-08T14:00:00.000Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1794264994731,
+      "recipient_name": "Test Client",
+      "recipient_phone": "+216 20000000",
+      "title": "Demande d'annonce enregistrée",
+      "message": "Votre annonce 'Test Ad CRUD' a bien été enregistrée et est en attente d'examen par notre équipe.",
+      "type": "ad_status",
+      "ad_id": 1794264994730,
+      "is_read": false,
+      "created_at": "2026-11-09T22:56:34.730Z"
+    },
+    {
+      "id": 1794249651348,
+      "recipient_name": "Mohamed Fakhfakh",
+      "recipient_phone": "+216 97 456 123",
+      "title": "Annonce Acceptée et Publiée !",
+      "message": "Félicitations, votre annonce 'Nouvelle Offre Déjeuner Buffet - Restaurant Médina' a été approuvée par Rayen Masmoudi Digital.",
+      "type": "ad_status",
+      "ad_id": 3,
+      "is_read": false,
+      "created_at": "2026-11-09T18:40:51.348Z"
+    },
+    {
+      "id": 1,
+      "recipient_name": "Patisserie Ben Salem",
+      "recipient_phone": "+216 98 123 456",
+      "title": "Votre annonce a été acceptée et publiée !",
+      "message": "Félicitations, votre annonce 'Campagne Ramadan Promo' a été validée par Rayen Masmoudi et est désormais active.",
+      "type": "ad_status",
+      "ad_id": 1,
+      "is_read": true,
+      "created_at": "2026-11-01T09:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "recipient_name": "Inconnu Web",
+      "recipient_phone": "+216 20 000 000",
+      "title": "Annonce refusée",
+      "message": "Votre annonce 'Promotion Cryptomonnaie & Trading' a été refusée. Raison : Non conforme à la politique publicitaire de l'agence.",
+      "type": "ad_status",
+      "ad_id": 4,
+      "is_read": false,
+      "created_at": "2026-11-08T14:10:00.000Z"
+    },
+    {
+      "id": 3,
+      "recipient_name": "Mohamed Fakhfakh",
+      "recipient_phone": "+216 97 456 123",
+      "title": "Demande d'annonce reçue en cours d'examen",
+      "message": "Votre demande pour 'Nouvelle Offre Déjeuner Buffet' a bien été reçue par notre équipe et est en cours de révision.",
+      "type": "ad_status",
+      "ad_id": 3,
+      "is_read": false,
+      "created_at": "2026-11-09T08:15:00.000Z"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Digital Marketing",
+      "title_ar": "التسويق الرقمي المتكامل",
+      "slug": "digital-marketing",
+      "description": "Stratégie marketing globale, génération de prospects ciblés et acquisition continue de nouveaux clients pour propulser votre entreprise.",
+      "description_ar": "استراتيجية تسويق رقمي شاملة مدروسة لتحقيق أعلى عائد على الاستثمار وجذب عملاء حقيقيين لمشروعك.",
+      "price_dt": 150,
+      "old_price_dt": 200,
+      "category": "marketing",
+      "delivery_time": "3 - 5 jours",
+      "features": [
+        "Stratégie personnalisée",
+        "Ciblage géographique Sfax & Tunisie",
+        "Rapport hebdomadaire détaillé",
+        "Support dédié 7j/7"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "is_popular": true,
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "title": "Sponsoring Facebook & Instagram",
+      "title_ar": "تمويل إعلانات فيسبوك وانستغرام",
+      "slug": "sponsoring-facebook-instagram",
+      "description": "Campagnes publicitaires Meta ultra-performantes avec ciblage précis, gestion de budget et optimisation du coût par message/conversion.",
+      "description_ar": "إطلاق حملات ممولة باحترافية عالية واستهداف دقيق للمهتمين بمنتجاتك مع تخفيض تكلفة الرسالة والنقرة.",
+      "price_dt": 50,
+      "old_price_dt": 75,
+      "category": "ads",
+      "delivery_time": "24h - 48h",
+      "features": [
+        "Ciblage par ville et centres d'intérêts",
+        "Création de 2 visuels publicitaires",
+        "Configuration Meta Pixel",
+        "Suivi quotidien du budget"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&w=800&q=80",
+      "is_popular": true,
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "title": "Montage Vidéo Professionnel",
+      "title_ar": "مونتاج فيديو احترافي وإعلاني",
+      "slug": "montage-video-professionnel",
+      "description": "Montage dynamique pour Reels, TikTok, YouTube et spots publicitaires. Sound design cinématique, transitions fluides et sous-titres animés.",
+      "description_ar": "مونتاج فيديوهات ريلز وتيك توك وإعلانات تجارية بمؤثرات صوتية وبصرية حديثة تشد انتباه المشاهد من أول ثانية.",
+      "price_dt": 80,
+      "old_price_dt": 120,
+      "category": "video",
+      "delivery_time": "24h - 48h",
+      "features": [
+        "Format vertical 9:16 & horizontal",
+        "Sous-titres animés captivants",
+        "Sound design & mixage audio pro",
+        "Color grading & étalonnage"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=800&q=80",
+      "is_popular": true,
+      "is_active": true
+    },
+    {
+      "id": 4,
+      "title": "Création Site Web",
+      "title_ar": "تصميم وإنشاء مواقع الواب",
+      "slug": "creation-site-web",
+      "description": "Formules complètes : Site Basic (300 DT), Business (500 DT), Premium (800 DT) et Boutique E-Commerce (dès 700 DT). Ultra-rapides, bilingues et optimisés SEO.",
+      "description_ar": "باقات شاملة: موقع Basic (300 د.ت)، Business (500 د.ت)، Premium (800 د.ت)، ومتجر إلكتروني (من 700 د.ت). تصميم سريع متجاوب مع الهواتف.",
+      "price_dt": 300,
+      "old_price_dt": 450,
+      "category": "web",
+      "delivery_time": "3 - 7 jours",
+      "features": [
+        "موقع Basic: 300 د.ت",
+        "موقع Business: 500 د.ت",
+        "موقع Premium: 800 د.ت",
+        "متجر إلكتروني: من 700 د.ت"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=800&q=80",
+      "is_popular": true,
+      "is_active": true
+    },
+    {
+      "id": 5,
+      "title": "Création Application Mobile",
+      "title_ar": "تطوير تطبيقات الهواتف الذكية",
+      "slug": "creation-application-mobile",
+      "description": "Applications mobiles fluides : Basic (500 DT), Business (800 DT), Premium (1,200 DT) et Cross-Platform Android + iPhone (dès 1,500 DT).",
+      "description_ar": "برمجة تطبيقات ذكية: تطبيق Basic (500 د.ت)، Business (800 د.ت)، Premium (1,200 د.ت)، ونظام Android + iPhone (من 1,500 د.ت).",
+      "price_dt": 500,
+      "old_price_dt": 750,
+      "category": "app",
+      "delivery_time": "7 - 15 jours",
+      "features": [
+        "تطبيق Basic: 500 د.ت",
+        "تطبيق Business: 800 د.ت",
+        "تطبيق Premium: 1,200 د.ت",
+        "Android + iPhone: من 1,500 د.ت"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=800&q=80",
+      "is_popular": true,
+      "is_active": true
+    },
+    {
+      "id": 6,
+      "title": "Création Logo",
+      "title_ar": "تصميم لوجو وهوية بصرية",
+      "slug": "creation-logo",
+      "description": "Conception de logos distinctifs, mémorables et intemporels. Livré avec charte graphique complète, palettes de couleurs et déclinaisons.",
+      "description_ar": "ابتكار شعار متميز يعبر عن قوة علامتك التجارية ويترك بصمة راسخة في ذاكرة حرفائك مع ملفات عالية الدقة.",
+      "price_dt": 50,
+      "old_price_dt": 90,
+      "category": "design",
+      "delivery_time": "24h - 48h",
+      "features": [
+        "3 propositions uniques",
+        "Fichiers vectoriels HD (AI, PNG, SVG)",
+        "Guide d'utilisation des couleurs",
+        "Cession complète des droits"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=800&q=80",
+      "is_popular": false,
+      "is_active": true
+    },
+    {
+      "id": 7,
+      "title": "Design Affiche Publicitaire",
+      "title_ar": "تصميم لافتات وملصقات إعلانية",
+      "slug": "design-affiche-publicitaire",
+      "description": "Affiches percutantes pour vos offres promotionnelles, réseaux sociaux, bannières web et impressions grand format haute résolution.",
+      "description_ar": "تصاميم ملصقات إعلانية مبتكرة وموجهة لتحفيز الشراء وإبراز عروضك الخاصة بأبهى صورة.",
+      "price_dt": 30,
+      "old_price_dt": 45,
+      "category": "design",
+      "delivery_time": "24h",
+      "features": [
+        "Fichiers prêts pour impression 300 DPI",
+        "Formats Story, Post & Bannière",
+        "Typographie moderne & accrocheuse",
+        "Livraison express"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1542744094-3a31f272c490?auto=format&fit=crop&w=800&q=80",
+      "is_popular": false,
+      "is_active": true
+    },
+    {
+      "id": 8,
+      "title": "Gestion Page Facebook",
+      "title_ar": "إدارة ومتابعة صفحات فيسبوك",
+      "slug": "gestion-page-facebook",
+      "description": "Gestion intégrale de votre page Facebook : calendrier éditorial, création régulière de visuels, rédaction en tunisien/français et modération.",
+      "description_ar": "تسيير احترافي متواصل لصفحتك، نشر منشورات دورية جذابة والتفاعل السريع مع رسائل وتعليقات الحرفاء.",
+      "price_dt": 100,
+      "old_price_dt": 140,
+      "category": "social",
+      "delivery_time": "Forfait mensuel",
+      "features": [
+        "12 à 16 publications / mois",
+        "Rédaction captivante dialecte/français",
+        "Réponse rapide aux messages",
+        "Bilan statistique mensuel"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?auto=format&fit=crop&w=800&q=80",
+      "is_popular": true,
+      "is_active": true
+    },
+    {
+      "id": 9,
+      "title": "Publicité Digitale",
+      "title_ar": "إعلانات رقمية متعددة المنصات",
+      "slug": "publicite-digitale",
+      "description": "Stratégie publicitaire omnicanale sur Google Ads, TikTok Ads et YouTube pour capturer l'attention de vos clients où qu'ils soient.",
+      "description_ar": "حملات إعلانية احترافية عبر جوجل وتيك توك ويوتيوب لتحقيق أقصى وصول وانتشار لعلامتك التجارية.",
+      "price_dt": 120,
+      "old_price_dt": 180,
+      "category": "ads",
+      "delivery_time": "48h",
+      "features": [
+        "Audit & analyse concurrentielle",
+        "Campagnes Multi-Plateformes",
+        "Optimisation du coût par clic (CPC)",
+        "Rapport de ROI transparent"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1533750516457-a7f992034fec?auto=format&fit=crop&w=800&q=80",
+      "is_popular": false,
+      "is_active": true
+    },
+    {
+      "id": 10,
+      "title": "Rayen Shop Store — Kick Growth Premium",
+      "title_ar": "Rayen Shop Store — باقة Kick Growth Premium",
+      "slug": "rayen-shop-kick-growth",
+      "description": "Pack mensuel exclusif pour streamers et créateurs : chaîne Kick clé en main, OBS + Scenes + Overlays, 30 jours de contenu, clips TikTok/Reels/Shorts et stratégie de croissance.",
+      "description_ar": "باقة شاملة شهرياً: إنشاء وتجهيز قناة Kick، هوية بصرية كاملة، إعداد OBS والـAlerts، خطة محتوى 30 يوم، مونتاج المقاطع ونشر الـClips على تيك توك ويوتيوب وانستغرام واستراتيجية نمو متكاملة.",
+      "price_dt": 500,
+      "old_price_dt": 750,
+      "category": "video",
+      "delivery_time": "Abonnement mensuel",
+      "features": [
+        "إنشاء وتجهيز قناة Kick",
+        "هوية بصرية كاملة للقناة",
+        "إعداد OBS + Scenes + Overlays + Alerts",
+        "خطة محتوى لمدة 30 يوم",
+        "إعداد أفكار وسيناريوهات للبث",
+        "مونتاج مقاطع من الـLive",
+        "نشر Clips على TikTok + Instagram + YouTube Shorts",
+        "تحسين العناوين والصور والـHashtags",
+        "استراتيجية نمو للقناة ومتابعة الأداء"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+      "is_popular": true,
+      "is_active": true
+    },
+    {
+      "id": 11,
+      "title": "Pack Combo Site Web + Application",
+      "title_ar": "باقة موقع إلكتروني + تطبيق جوال",
+      "slug": "combo-site-application",
+      "description": "Solution complète d'envergure : Votre Site Web professionnel + Votre Application Mobile (Android & iOS) synchronisés, avec tableau de bord unifié.",
+      "description_ar": "الحل المتكامل لمشروعك: موقع إلكتروني متطور + تطبيق هاتف ذكي يعمل بنظامي Android و iPhone مع لوحة تحكم موحدة لإدارة النشاط.",
+      "price_dt": 1500,
+      "old_price_dt": 2200,
+      "category": "web",
+      "delivery_time": "15 - 20 jours",
+      "features": [
+        "موقع إلكتروني متكامل للشركة أو المتجر",
+        "تطبيق موبايل متزامن (Android + iOS)",
+        "لوحة تحكم موحدة لإدارة الموقع والتطبيق معاً",
+        "تصميم 3D وهوية بصرية موحدة وفاخرة",
+        "دعم فني وتدريب كامل على الإدارة"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "is_popular": true,
+      "is_active": true
+    }
+  ],
+  "prices": [
+    {
+      "id": 1,
+      "plan_name": "Rayen Shop Store — Kick Growth Premium",
+      "plan_name_ar": "Rayen Shop Store — باقة Kick Growth Premium",
+      "price_dt": 500,
+      "old_price_dt": 750,
+      "billing_cycle": "500 د.ت / شهر",
+      "badge": "Kick Growth Premium 🟢",
+      "category": "kick",
+      "description": "الحزمة المتكاملة لصناع المحتوى والستريمرز: بناء وتكبير قناة Kick مع إنتاج الـClips وخطة 30 يوم من المحتوى المتواصل.",
+      "features": [
+        "إنشاء وتجهيز قناة Kick",
+        "هوية بصرية كاملة للقناة",
+        "إعداد OBS + Scenes + Overlays + Alerts",
+        "خطة محتوى لمدة 30 يوم",
+        "إعداد أفكار وسيناريوهات للبث",
+        "مونتاج مقاطع من الـLive",
+        "نشر Clips على TikTok + Instagram + YouTube Shorts",
+        "تحسين العناوين والصور والـHashtags",
+        "استراتيجية نمو للقناة",
+        "متابعة وتحليل الأداء طوال الشهر"
+      ],
+      "is_featured": true
+    },
+    {
+      "id": 2,
+      "plan_name": "Site Web Basic",
+      "plan_name_ar": "موقع إلكتروني Basic",
+      "price_dt": 300,
+      "old_price_dt": 400,
+      "billing_cycle": "300 د.ت",
+      "badge": "Basic 🟢",
+      "category": "web",
+      "description": "موقع إلكتروني تعريفي حديث وأنيق مصمم لعرض خدماتك وجلب الحرفاء في صفاقس وتونس.",
+      "features": [
+        "تصميم عصري سريع متجاوب 100% مع الهاتف",
+        "صفحة رئيسية + صفحات عرض الخدمات",
+        "ربط مباشر وسريع مع WhatsApp والاتصال",
+        "استضافة سريعة وشهادة أمان SSL مجاناً",
+        "تسليم سريع خلال 3 إلى 5 أيام"
+      ],
+      "is_featured": false
+    },
+    {
+      "id": 3,
+      "plan_name": "Site Web Business",
+      "plan_name_ar": "موقع إلكتروني Business",
+      "price_dt": 500,
+      "old_price_dt": 700,
+      "billing_cycle": "500 د.ت",
+      "badge": "Business 🔵",
+      "category": "web",
+      "description": "موقع أعمال متقدم ومتكامل للشركات والمؤسسات مع لوحة تحكم ديناميكية لإدارة المحتوى.",
+      "features": [
+        "لوحة تحكم كاملة لتعديل النصوص والصور بسهولة",
+        "تحسين محركات البحث SEO لصفاقس وتونس",
+        "ربط كامل مع منصات الإعلانات وحسابات التواصل",
+        "نماذج تواصل تفاعلية وتلقي رسائل فورية",
+        "دعم فني وتدريب على الإدارة"
+      ],
+      "is_featured": true
+    },
+    {
+      "id": 4,
+      "plan_name": "Site Web Premium",
+      "plan_name_ar": "موقع إلكتروني Premium",
+      "price_dt": 800,
+      "old_price_dt": 1150,
+      "billing_cycle": "800 د.ت",
+      "badge": "Premium 🔴",
+      "category": "web",
+      "description": "موقع فخم بمستوى الشركات العالمية بتصميم 3D متطور وتجربة مستخدم فاخرة.",
+      "features": [
+        "تصميم 3D تفاعلي ومؤثرات بصرية فاخرة",
+        "قواعد بيانات مخصصة وأداء فائق السرعة",
+        "دعم كامل لتعدد اللغات (عربية، فرنسية، إنجليزية)",
+        "حماية متقدمة ونسخ احتياطي تلقائي",
+        "صيانة دورية ودعم فني خاص VIP"
+      ],
+      "is_featured": false
+    },
+    {
+      "id": 5,
+      "plan_name": "Boutique E-Commerce",
+      "plan_name_ar": "متجر إلكتروني متكامل",
+      "price_dt": 700,
+      "old_price_dt": 950,
+      "billing_cycle": "من 700 د.ت",
+      "badge": "E-Commerce 🛒",
+      "category": "web",
+      "description": "متجر إلكتروني متكامل لبيع منتجاتك عبر الإنترنت مع سلة الشراء وتتبع الطلبات.",
+      "features": [
+        "كتالوج منتجات وتصنيفات غير محدودة",
+        "عربة تسوق وسرعة إتمام الطلب",
+        "إرسال إشعارات الطلبات مباشرة على WhatsApp",
+        "لوحة تحكم لإدارة المنتجات والمخزون والأسعار",
+        "نظام كودات الخصم والتخفيضات"
+      ],
+      "is_featured": true
+    },
+    {
+      "id": 6,
+      "plan_name": "Application Mobile Basic",
+      "plan_name_ar": "تطبيق موبايل Basic",
+      "price_dt": 500,
+      "old_price_dt": 700,
+      "billing_cycle": "500 د.ت",
+      "badge": "Basic 🟢",
+      "category": "app",
+      "description": "تطبيق موبايل خفيف وسريع لعرض الخدمات والمنتجات والتواصل الفوري مع الزبائن.",
+      "features": [
+        "واجهة مستخدم عصرية وسهلة الاستخدام",
+        "عرض متكامل للخدمات أو المنتجات",
+        "ربط مباشر بالاتصال الهاتفي والواتساب",
+        "أداء سريع وخفيف على الهاتف",
+        "تسليم سريع مع ملف التثبيت"
+      ],
+      "is_featured": false
+    },
+    {
+      "id": 7,
+      "plan_name": "Application Mobile Business",
+      "plan_name_ar": "تطبيق موبايل Business",
+      "price_dt": 800,
+      "old_price_dt": 1100,
+      "billing_cycle": "800 د.ت",
+      "badge": "Business 🔵",
+      "category": "app",
+      "description": "تطبيق متطور للشركات والمشاريع مع نظام الحسابات وقاعدة بيانات سحابية.",
+      "features": [
+        "نظام حسابات وتسجيل المستخدمين",
+        "إشعارات فورية مخصصة (Push Notifications)",
+        "ربط بقاعدة بيانات حقيقية وتحديث فوري",
+        "لوحة تحكم لإدارة بيانات ومحتوى التطبيق",
+        "إحصائيات متقدمة لتفاعل الحرفاء"
+      ],
+      "is_featured": true
+    },
+    {
+      "id": 8,
+      "plan_name": "Application Mobile Premium",
+      "plan_name_ar": "تطبيق موبايل Premium",
+      "price_dt": 1200,
+      "old_price_dt": 1600,
+      "billing_cycle": "1,200 د.ت",
+      "badge": "Premium 🔴",
+      "category": "app",
+      "description": "تطبيق متكامل بمواصفات عالية مع أنظمة التتبع المباشر وأعلى درجات الأمان.",
+      "features": [
+        "أعلى معايير السرعة والأداء والأمان",
+        "تكامل مع الخرائط والـGPS والتتبع",
+        "نظام طلبات متقدم وسلس",
+        "تصميم UI/UX حصري ومبهر",
+        "دعم فني خاص وتحديثات مستمرة"
+      ],
+      "is_featured": false
+    },
+    {
+      "id": 9,
+      "plan_name": "Application Android + iPhone",
+      "plan_name_ar": "تطبيق Android + iPhone موحد",
+      "price_dt": 1500,
+      "old_price_dt": 2000,
+      "billing_cycle": "من 1,500 د.ت",
+      "badge": "Cross-Platform 📱",
+      "category": "app",
+      "description": "تطبيق بنظام Cross-Platform يعمل بكفاءة تامة على كل هواتف Android وأجهزة iPhone (iOS).",
+      "features": [
+        "تطبيق موحد يعمل على Android و iPhone",
+        "كود عالي الجودة بنظام React Native الحديث",
+        "جاهز للنشر على Google Play و App Store",
+        "لوحة تحكم مركزية للنظامين معاً",
+        "تجربة استخدام أصلية فائقة السلاسة"
+      ],
+      "is_featured": true
+    },
+    {
+      "id": 10,
+      "plan_name": "Pack Combo Site + Application",
+      "plan_name_ar": "باقة موقع إلكتروني + تطبيق",
+      "price_dt": 1500,
+      "old_price_dt": 2200,
+      "billing_cycle": "من 1,500 د.ت",
+      "badge": "Pack Combo VIP ⭐",
+      "category": "combo",
+      "description": "الحل الرقمي الشامل: موقع إلكتروني احترافي + تطبيق هاتف ذكي متزامنان معاً مع توفير استثنائي.",
+      "features": [
+        "موقع إلكتروني متكامل للشركة أو المتجر",
+        "تطبيق موبايل متزامن (Android + iOS)",
+        "قاعدة بيانات ولوحة تحكم موحدة لإدارة الاثنين معاً",
+        "هوية بصرية 3D متناسقة وفاخرة لمشروعك",
+        "توفير مالي كبير مقارنة بالطلب المنفصل",
+        "دعم فني متميز وتدريب عملي كامل"
+      ],
+      "is_featured": true
+    },
+    {
+      "id": 11,
+      "plan_name": "Pack Starter Affiche",
+      "plan_name_ar": "باقة البداية (تصميم إعلاني)",
+      "price_dt": 30,
+      "old_price_dt": 45,
+      "billing_cycle": "30 د.ت",
+      "badge": "30 DT",
+      "category": "starter",
+      "description": "تصميم بوستر إعلاني احترافي للمنتج أو العرض لنشره على منصات التواصل.",
+      "features": [
+        "1 Design Affiche HD Réseaux",
+        "Format Post & Story inclus",
+        "Livraison express 24h",
+        "1 révision complète incluse"
+      ],
+      "is_featured": false
+    },
+    {
+      "id": 12,
+      "plan_name": "Pack Boost Social & Logo",
+      "plan_name_ar": "باقة الانطلاق (سبونسورينغ أو لوجو)",
+      "price_dt": 50,
+      "old_price_dt": 75,
+      "billing_cycle": "50 د.ت",
+      "badge": "50 DT",
+      "category": "starter",
+      "description": "إطلاق حملة ممولة أو تصميم لوجو احترافي لعلامتك التجارية.",
+      "features": [
+        "Sponsoring Meta ou Création Logo Pro",
+        "Ciblage géographique Sfax / Tunisie",
+        "Optimisation du coût par message",
+        "Support WhatsApp 7j/7"
+      ],
+      "is_featured": false
+    },
+    {
+      "id": 13,
+      "plan_name": "Pack Croissance Pro",
+      "plan_name_ar": "باقة النمو الاحترافي (فيديو + تمويل)",
+      "price_dt": 100,
+      "old_price_dt": 150,
+      "billing_cycle": "100 د.ت",
+      "badge": "100 DT",
+      "category": "starter",
+      "description": "مونتاج فيديو إعلاني تفاعلي + إدارة إعلان ممول مع استهداف دقيق.",
+      "features": [
+        "2 Vidéos Reels / TikTok dynamiques",
+        "Gestion complète Sponsoring Meta",
+        "Gestion & animation Page Facebook",
+        "Support prioritaire direct"
+      ],
+      "is_featured": false
+    },
+    {
+      "id": 14,
+      "plan_name": "Pack Visibilité Plus",
+      "plan_name_ar": "باقة الظهور الشامل",
+      "price_dt": 150,
+      "old_price_dt": 220,
+      "billing_cycle": "150 د.ت",
+      "badge": "150 DT",
+      "category": "starter",
+      "description": "استراتيجية رقمية متعددة القنوات تشمل الفيديوهات والتصاميم وإدارة الحملات.",
+      "features": [
+        "Stratégie Digital Marketing complète",
+        "Création visuels + 3 Vidéos Ads",
+        "Ciblage multi-villes Tunisie",
+        "Rapport de performance hebdomadaire"
+      ],
+      "is_featured": false
+    },
+    {
+      "id": 15,
+      "plan_name": "Pack Agence Elite",
+      "plan_name_ar": "باقة النخبة المتكاملة",
+      "price_dt": 250,
+      "old_price_dt": 380,
+      "billing_cycle": "250 د.ت",
+      "badge": "250 DT",
+      "category": "starter",
+      "description": "حزمة تسويق وهوية شاملة 360 درجة للشركات وأصحاب المشاريع.",
+      "features": [
+        "الهوية البصرية واللوجو كاملة",
+        "حملات إعلانية متعددة المنصات",
+        "استشارات مباشرة وتخطيط تسويقي",
+        "متابعة دورية مستمرة"
+      ],
+      "is_featured": false
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "order_code": "RMD-2026-001",
+      "client_name": "Ahmed Ben Salem",
+      "client_phone": "+216 98 123 456",
+      "client_email": "ahmed.bensalem@gmail.com",
+      "service_id": 8,
+      "service_title": "Gestion Page Facebook",
+      "price_dt": 100,
+      "discount_dt": 0,
+      "total_dt": 100,
+      "details": "Gestion de la page Facebook pour le lancement d'une nouvelle gamme de pâtisseries à Sfax.",
+      "status": "en_cours",
+      "payment_status": "paye",
+      "promo_code_used": "",
+      "created_at": "2026-11-07T14:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "order_code": "RMD-2026-002",
+      "client_name": "Sonia Louati",
+      "client_phone": "+216 24 555 888",
+      "client_email": "sonia.louati@outlook.com",
+      "service_id": 1,
+      "service_title": "Digital Marketing",
+      "price_dt": 150,
+      "discount_dt": 20,
+      "total_dt": 130,
+      "details": "Campagne d'acquisition pour boutique de prêt-à-porter avec ciblage femmes Sfax et Tunis.",
+      "status": "validee",
+      "payment_status": "acompte_recu",
+      "promo_code_used": "SFAX2026",
+      "created_at": "2026-11-08T09:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "order_code": "RMD-2026-003",
+      "client_name": "Karim Drira",
+      "client_phone": "+216 52 333 444",
+      "client_email": "karim.drira@gmail.com",
+      "service_id": 4,
+      "service_title": "Création Site Web",
+      "price_dt": 250,
+      "discount_dt": 0,
+      "total_dt": 250,
+      "details": "Création d'un site vitrine moderne pour cabinet de consulting avec formulaire de réservation.",
+      "status": "en_attente",
+      "payment_status": "non_paye",
+      "promo_code_used": "",
+      "created_at": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "order_code": "RMD-2026-004",
+      "client_name": "Amira Karray",
+      "client_phone": "+216 29 777 111",
+      "client_email": "amira.karray@yahoo.fr",
+      "service_id": 2,
+      "service_title": "Sponsoring Facebook & Instagram",
+      "price_dt": 50,
+      "discount_dt": 0,
+      "total_dt": 50,
+      "details": "Campagne publicitaire ciblée sur Instagram pour offre spéciale verres polarisés.",
+      "status": "livree",
+      "payment_status": "paye",
+      "promo_code_used": "",
+      "created_at": "2026-11-06T11:20:00.000Z"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "full_name": "Ahmed Ben Salem",
+      "phone": "+216 98 123 456",
+      "email": "ahmed.bensalem@gmail.com",
+      "city": "Sfax",
+      "company_name": "Patisserie Ben Salem",
+      "total_orders": 2,
+      "total_spent_dt": 200,
+      "created_at": "2026-10-28T10:00:00.000Z",
+      "last_order_at": "2026-11-07T14:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "full_name": "Sonia Louati",
+      "phone": "+216 24 555 888",
+      "email": "sonia.louati@outlook.com",
+      "city": "Sfax",
+      "company_name": "Boutique Élégance",
+      "total_orders": 1,
+      "total_spent_dt": 130,
+      "created_at": "2026-11-01T15:00:00.000Z",
+      "last_order_at": "2026-11-08T09:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "full_name": "Karim Drira",
+      "phone": "+216 52 333 444",
+      "email": "karim.drira@gmail.com",
+      "city": "Tunis",
+      "company_name": "Tech Solutions TN",
+      "total_orders": 1,
+      "total_spent_dt": 250,
+      "created_at": "2026-11-09T08:00:00.000Z",
+      "last_order_at": "2026-11-09T08:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "full_name": "Amira Karray",
+      "phone": "+216 29 777 111",
+      "email": "amira.karray@yahoo.fr",
+      "city": "Sfax",
+      "company_name": "Optique Karray",
+      "total_orders": 1,
+      "total_spent_dt": 50,
+      "created_at": "2026-11-06T11:20:00.000Z",
+      "last_order_at": "2026-11-06T11:20:00.000Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "sender_name": "Mohamed Fakhfakh",
+      "sender_phone": "+216 97 456 123",
+      "sender_email": "fakhfakh.m@gmail.com",
+      "subject": "Demande de devis vidéo restaurant",
+      "message": "Bonjour Rayen, nous avons un restaurant à Sfax (Route de Téniour) et nous voulons 3 vidéos Reels avec montage dynamique. Quel est le pack le plus adapté ?",
+      "is_read": false,
+      "created_at": "2026-11-09T09:40:00.000Z"
+    },
+    {
+      "id": 2,
+      "sender_name": "Mariem Trabelsi",
+      "sender_phone": "+216 22 987 654",
+      "sender_email": "mariem.tr@gmail.com",
+      "subject": "Création Logo & Charte Graphique",
+      "message": "Salem Rayen, je lance une marque de produits cosmétiques naturels. J'ai adoré vos travaux sur Facebook. Pouvons-nous fixer un appel WhatsApp ?",
+      "is_read": true,
+      "created_at": "2026-11-08T16:20:00.000Z"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Spot Publicitaire Vidéo - Restaurant Le Gourmet",
+      "client_name": "Le Gourmet Sfax",
+      "category": "video",
+      "description": "Montage dynamique 9:16 avec sound design percutant pour campagne Reels et TikTok Ads.",
+      "media_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+      "results_metric": "185K Vues & +40% Réservations",
+      "is_featured": true
+    },
+    {
+      "id": 2,
+      "title": "Campagne Meta Ads Haute Conversion",
+      "client_name": "Boutique Bella Moda",
+      "category": "sponsoring",
+      "description": "Génération de 420 commandes directes via WhatsApp et site web en 14 jours.",
+      "media_url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80",
+      "results_metric": "+240% Chiffre d'Affaires",
+      "is_featured": true
+    },
+    {
+      "id": 3,
+      "title": "Identité Visuelle & Logo Premium",
+      "client_name": "Apex Industrial Tech",
+      "category": "logo",
+      "description": "Conception d'un logo moderne vectoriel avec charte graphique de marque haut de gamme.",
+      "media_url": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=800&q=80",
+      "results_metric": "Marque Déposée & Validée",
+      "is_featured": true
+    },
+    {
+      "id": 4,
+      "title": "Campagne d'Affiches Événementielles",
+      "client_name": "Sfax Digital Summit",
+      "category": "affiche",
+      "description": "Série de 5 affiches publicitaires pour réseaux sociaux et affichage urbain 300 DPI.",
+      "media_url": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=800&q=80",
+      "results_metric": "+1,200 Participants",
+      "is_featured": true
+    },
+    {
+      "id": 5,
+      "title": "Site E-Commerce Bilingue Arabe/Français",
+      "client_name": "Artisanat Tunisien Prestige",
+      "category": "web",
+      "description": "Plateforme ultra-rapide avec paiement en ligne et commande directe en 1 clic.",
+      "media_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "results_metric": "Temps de chargement < 1.2s",
+      "is_featured": true
+    },
+    {
+      "id": 6,
+      "title": "Application Mobile de Livraison Locale",
+      "client_name": "Express Livraisons Sfax",
+      "category": "app",
+      "description": "Application Flutter avec suivi GPS en direct et panneau d'administration pour chauffeurs.",
+      "media_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "results_metric": "4.9★ sur Google Play",
+      "is_featured": true
+    }
+  ],
+  "promotions": [
+    {
+      "id": 1,
+      "code": "SFAX2026",
+      "discount_type": "percentage",
+      "discount_value": 20,
+      "min_order_dt": 50,
+      "valid_until": "2026-12-31",
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "code": "BOOST50",
+      "discount_type": "fixed_dt",
+      "discount_value": 50,
+      "min_order_dt": 200,
+      "valid_until": "2026-12-31",
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "code": "WELCOME10",
+      "discount_type": "percentage",
+      "discount_value": 10,
+      "min_order_dt": 30,
+      "valid_until": "2026-12-31",
+      "is_active": true
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "rayen.masmoudi.digital@gmail.com",
+      "full_name": "Rayen Masmoudi",
+      "role": "superadmin",
+      "last_password_change": "2026-11-09T10:00:00.000Z"
+    }
+  ]
+}
